@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sem",
+  "name": "Beam Interactive",
+  "description": "Stream with Beam and use interactive controls.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ScarabCoder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
